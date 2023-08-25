@@ -1,5 +1,5 @@
 
-### Engineer
+### S/W Engineer
 - 안녕하세요, 김동현입니다
 ### Activity
 ####
@@ -23,7 +23,7 @@
 
 
 
-<div align=center>
+<div align=left>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
