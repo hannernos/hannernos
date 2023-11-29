@@ -5,14 +5,16 @@
 
 <!-- 추가 가능한 프로젝트 : capstone(리포지 정리 필요) / PL프로젝트-> 마피아(소켓 기반 TXT) -->
 
-#### 삼성청년소프트웨어아카데미
+#### 삼성 청년 SW 아카데미
 
 - Embeded Track 9기 
 - 2023.01.04 ~ 2023.12.29
 
-- ssd pjt
-- Indiana_cars
+- Moeutto
+- Pendy
 - Vote_with_your_cigarette_butts
+- Indiana_cars
+- ssd pjt
 
 ### 자기소개
 - C++을 가장 선호하지만, 처음 보는 언어라도 금방 학습하고 사용할 자신이 있습니다
