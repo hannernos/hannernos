@@ -1,5 +1,5 @@
 
-## **안녕하세요, 읽기 쉬운 코드를 작서아는 SW Engineer 김동현입니다**
+## **안녕하세요, 읽기 쉬운 코드를 작성하는 SW Engineer 김동현입니다**
 ### Activity
 
 <!-- 추가 가능한 프로젝트 : capstone(리포지 정리 필요) / PL프로젝트-> 마피아(소켓 기반 TXT) -->
@@ -28,7 +28,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
